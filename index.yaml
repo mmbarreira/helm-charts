@@ -14,6 +14,16 @@ entries:
   my-lib:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-12-13T23:37:37.254961997Z"
+    description: A Helm chart for Kubernetes
+    digest: 088f0d95e23ed95397517c0f6a6b09d861d119ddb5beb0764cc8ac6f1f53decc
+    name: my-lib
+    type: library
+    urls:
+    - https://github.com/mmbarreira/helm-charts/releases/download/my-lib-2.2.0/my-lib-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-12-13T23:18:25.194772652Z"
     description: A Helm chart for Kubernetes
     digest: e2fd761f49c10525ac1c11fc9d328948d3de994a3516661cbb233a2cbb3e4943
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/mmbarreira/helm-charts/releases/download/my-lib-2.1.0/my-lib-2.1.0.tgz
     version: 2.1.0
-generated: "2023-12-13T23:18:25.194778493Z"
+generated: "2023-12-13T23:37:37.25496907Z"
