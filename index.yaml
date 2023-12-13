@@ -3,6 +3,16 @@ entries:
   my-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-12-13T23:58:00.82325338Z"
+    description: A Helm chart for Kubernetes
+    digest: 9b5268b4fd20fb89b06086f0a0ec68c71ba62a2a6d9603e6e4ad6e987f9e688c
+    name: my-chart
+    type: application
+    urls:
+    - https://github.com/mmbarreira/helm-charts/releases/download/my-chart-1.5.0/my-chart-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-12-13T23:18:25.013475261Z"
     description: A Helm chart for Kubernetes
     digest: 901f1800c35047b43ce04c3a595d180b27134894c091268a9aaf6e627da364ab
@@ -12,6 +22,16 @@ entries:
     - https://github.com/mmbarreira/helm-charts/releases/download/my-chart-1.0.0/my-chart-1.0.0.tgz
     version: 1.0.0
   my-lib:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-13T23:58:00.959190636Z"
+    description: A Helm chart for Kubernetes
+    digest: 1ca7e1d19a36341d8b2c1a389758dc0ea04ccd132eb23fb9944bffa2f6f8415e
+    name: my-lib
+    type: library
+    urls:
+    - https://github.com/mmbarreira/helm-charts/releases/download/my-lib-2.5.0/my-lib-2.5.0.tgz
+    version: 2.5.0
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-12-13T23:37:37.254961997Z"
@@ -32,4 +52,4 @@ entries:
     urls:
     - https://github.com/mmbarreira/helm-charts/releases/download/my-lib-2.1.0/my-lib-2.1.0.tgz
     version: 2.1.0
-generated: "2023-12-13T23:37:37.25496907Z"
+generated: "2023-12-13T23:58:00.959208189Z"
