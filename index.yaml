@@ -3,6 +3,16 @@ entries:
   my-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-12-14T10:33:18.542776315Z"
+    description: A Helm chart for Kubernetes
+    digest: 27a1a335158ebff81691e4637764ff402109baa46af82c287b57106466fa93f6
+    name: my-chart
+    type: application
+    urls:
+    - https://github.com/mmbarreira/helm-charts/releases/download/my-chart-3.0.0/my-chart-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-12-13T23:58:00.82325338Z"
     description: A Helm chart for Kubernetes
     digest: 9b5268b4fd20fb89b06086f0a0ec68c71ba62a2a6d9603e6e4ad6e987f9e688c
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://github.com/mmbarreira/helm-charts/releases/download/my-lib-2.1.0/my-lib-2.1.0.tgz
     version: 2.1.0
-generated: "2023-12-13T23:58:00.959208189Z"
+generated: "2023-12-14T10:33:18.54280048Z"
